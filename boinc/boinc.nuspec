@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>boinc</id>
+    <version>7.16.5.20200426</version>
+    <title>BOINC</title>
+    <authors>University of California</authors>
+    <owners>Jeni4, dtgm</owners>
+    <licenseUrl>https://boinc.berkeley.edu/gitweb/?p=boinc-v2.git;a=blob;f=COPYRIGHT;hb=HEAD</licenseUrl>
+    <projectUrl>https://boinc.berkeley.edu/</projectUrl>
+    <iconUrl>https://boinc.berkeley.edu/logo/favicon.gif</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Berkeley Open Infrastructure for Network Computing (BOINC) uses the idle time on your computer (Windows, Mac, Linux, or Android) to cure diseases, study global warming, discover pulsars, and do many other types of scientific research.
+
+After installing, run `BoincMgr.exe` and choose a [BOINC project](https://boinc.berkeley.edu/projects.php) to contribute to.
+
+### Documentation
+* [Help](http://boinc.berkeley.edu/wiki/BOINC_Help)
+* [User manual](https://boinc.berkeley.edu/wiki/User_manual)
+* [Development](https://boinc.berkeley.edu/trac/wiki/WikiStart)
+
+### Community
+* [Forum](http://boinc.berkeley.edu/dev/)</description>
+    <summary>Berkeley Open Infrastructure for Network Computing</summary>
+    <releaseNotes>#### Program
+* [Release notes](https://boinc.berkeley.edu/wiki/Release_Notes)
+* [Version history (depricated)](https://boinc.berkeley.edu/trac/wiki/VersionHistory)
+
+#### Package
+* Automatically built and uploaded by [Chriztoffer](https://chocolatey.org/profiles/Jeni4)</releaseNotes>
+    <copyright>© University of California</copyright>
+    <language>en-us</language>
+    <tags>distributed-computing science admin</tags>
+    <projectSourceUrl>https://boinc.berkeley.edu/trac/wiki/SourceCodeGit</projectSourceUrl>
+    <packageSourceUrl>https://boinc.berkeley.edu/</packageSourceUrl>
+    <mailingListUrl>https://boinc.berkeley.edu/trac/wiki/EmailLists</mailingListUrl>
+    <bugTrackerUrl>https://boinc.berkeley.edu/trac/</bugTrackerUrl>
+  </metadata>
+</package>
